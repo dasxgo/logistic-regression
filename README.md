@@ -1,2 +1,7 @@
-# regresion_lojistica
-ML - Regresión logistica
+# Logistic Regresion
+Machine Learning
+
+# Use
+- Binomial
+- Multiclass
+  
