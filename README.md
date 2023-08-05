@@ -1,7 +1,7 @@
 # Logistic Regresion
 Machine Learning
 
-## Use
+## Contents
 - Binomial
 - Multiclass
   
